@@ -2,7 +2,7 @@ Audio-GtkGramofile version 0.07
 ===============================
 
 Audio::GtkGramofile provides the functionality to enable the enclosed 
-script, gtkgramofile. The script gives a Gtk2 front end to the 
+script, gtkgramo. The script gives a Gtk2 front end to the 
 libgramofile library, which allows large .wav files to be split, and 
 then a variety of different signal processing algorithms can be 
 applied to the resultant (smaller) .wav files.

@@ -1,4 +1,8 @@
-Revision history for Perl extension Audio::GtkGramofile.
+0.09  Sun Feb 10 21:03:00 2008
+        - corrected version numbers
+
+0.08  Sat Jan 05 22:44:00 2008
+        - updated gramofile homepage to http://www.opensourcepartners.nl/~costar/gramofile/
 
 0.07  Mon Oct 31 17:56:00 2005
         - added support for begin end times and framesize
