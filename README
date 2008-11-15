@@ -1,4 +1,4 @@
-Audio-GtkGramofile version 0.07
+Audio-GtkGramofile version 0.10
 ===============================
 
 Audio::GtkGramofile provides the functionality to enable the enclosed 
@@ -26,7 +26,7 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  Audio::Gramofile
+  Audio::Gramofile, Gtk2
 
 CREDITS
 
@@ -36,7 +36,7 @@ with scrolling windows.
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2005 by Bob Wilkinson
+Copyright (C) 2005-2008 by Bob Wilkinson
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,

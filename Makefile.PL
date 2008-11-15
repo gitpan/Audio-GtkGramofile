@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME              => 'Audio::GtkGramofile',
     VERSION_FROM      => 'GtkGramofile.pm', # finds $VERSION
-    PREREQ_PM         => {Audio::Gramofile => 0.08}, # e.g., Module::Name => 1.1
+    PREREQ_PM         => {Audio::Gramofile => 0.08, Config::IniFiles => 2.00, Gtk2 => 1.00}, # e.g., Module::Name => 1.1
     EXE_FILES         => [ qw(gtkgramo) ],
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'GtkGramofile.pm', # retrieve abstract from module
